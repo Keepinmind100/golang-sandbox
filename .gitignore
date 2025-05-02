@@ -1,0 +1,26 @@
+# IDE 설정
+.vscode/
+.idea/
+
+# Go 관련
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+*.prof
+*.trace
+
+# 디렉토리
+bin/
+dist/
+vendor/
+
+# 로그 파일
+*.log
+
+# 운영체제 관련
+.DS_Store
+Thumbs.db
